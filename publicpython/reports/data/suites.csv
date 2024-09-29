@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","105","test_get_token[casedatas1]","testcase","Fri Sep 27 23:01:43 CST 2024","passed","Fri Sep 27 23:01:43 CST 2024","TestApi","test_api","",""
+"","327","test_select_flag[casedatas0]","testcase","Fri Sep 27 23:01:43 CST 2024","passed","Fri Sep 27 23:01:43 CST 2024","TestApi","test_api","",""
+"","433","test_get_token[casedatas0]","testcase","Fri Sep 27 23:01:42 CST 2024","passed","Fri Sep 27 23:01:43 CST 2024","TestApi","test_api","",""

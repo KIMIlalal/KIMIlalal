@@ -1,0 +1,10 @@
+-
+  feature: 模块1
+  story: 接口
+  title: 成功获取鉴权码
+  request:
+    method: get
+    url: https://api.weixin.qq.com/cgi-bin/tags/get
+    params:
+      access_token: access_token
+  vaildate: null

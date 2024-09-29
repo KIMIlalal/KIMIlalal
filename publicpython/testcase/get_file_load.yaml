@@ -1,0 +1,12 @@
+-
+  feature: 模块1
+  story: 接口
+  title: 成功获取鉴权码
+  request:
+    method: post
+    url: https://api.weixin.qq.com/cgi-bin/media/uploadimg
+    params:
+      access_token: access_token
+    files:
+      media: "D:\\hhh\kkk.png"
+  vaildate: null

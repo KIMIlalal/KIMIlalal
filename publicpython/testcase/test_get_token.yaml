@@ -1,0 +1,24 @@
+-
+  feature: 模块1
+  story: 接口
+  title: 成功获取鉴权码
+  request:
+    method: get
+    url: https://api.weixin.qq.com/cgi-bin/token
+    params:
+      grant_type: client_credential
+      appid: wx74a8627810cfa308
+      secret: e40a02f9d79a8097df497e6aaf93ab80
+  vaildate: null
+-
+  feature: 模块2
+  story: 接口
+  title: 验证grant_type必填
+  request:
+    method: get
+    url: https://api.weixin.qq.com/cgi-bin/token
+    params:
+      grant_type: null
+      appid: wx74a8627810cfa308
+      secret: e40a02f9d79a8097df497e6aaf93ab80
+  vaildate: null
